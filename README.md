@@ -4,6 +4,6 @@
     <title>Life</title>
   </head>
   <body>
-    <p>This Is Something Random</p>
+    <p>This Is Something</p>
   </body>
 </html>
